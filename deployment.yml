@@ -14,7 +14,7 @@ spec:
   spec: 
    containers:
    - name: c1
-     image: singyeplethy/athang-production:v7
+     image: singyeplethy/athang-production:v8
      imagePullPolicy: Always
      stdin: true
      tty: true
